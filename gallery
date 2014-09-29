@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">	<head>
+		<title>Gallery &mdash; ChattHillCountry.com</title>
+
+
+<meta name="keywords" content="Atlanta, Chattahoochee, Country, Georgia, Land, Conservancy" />
+
+<meta name="description" content="The Chattahoochee Hill Country (CHC) is a 65,000 acre area southeast of Atlanta." />
+
+
+		<link rel="stylesheet" type="text/css" href="main.css" />
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>	
+
+<script type="text/javascript">
+	var randomnumber=Math.floor(Math.random()*15);
+</script>
+	
+
+
+
+
+		
+<style>
+.gallery a{background: #51371B;}
+</style>
+	</head> 
+	<body id="gallery">
+		<div id="content">
+    <div id="header">
+    	<div id="logo"><a href="index.html"><img src="images/logo.gif" alt="ChattHillCountry.org" width="519" height="82" border="0"/></a></div><!-- logo -->
+    	<div id="buttons">
+			<ul>
+				<li><a href="support">Support CHC</a></li>
+				<li><a href="gallery">Gallery</a></li>
+				<li class="search"		<form method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="19" />
+<input type="hidden" name="XID" value="e6105b46279f4576183e17cef8c1634c891108b8" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="meta" value="gKwJidJ9m2MJpICsvioSygscWtTUZCYYjiwcDem138qqHDgXAFG5zagckHSqJW9wY19m1Nc4J3ihOwr2EnkBvnjZSt7NBWO4+ZOT6eT9VZgeCcHFCzmEqLj0HfvfPqjPNSZpzMnd+IRYu8N0dNEvQQQa6aUYUupdxllQmdi41Oy9FsoRtg02KxYL3FDt3FbQp9S1ZSsFCCwwblcKotrUvFHlCa/LDs3TqjJk+RJH8gSYDe0vWdtfftun/X2BiwelD+BoJW9l8I6e/leGAR6gpYsklyd0m9oISq93E29/PctJzuGf2yO6ka0N/k1oW5Vyx83emLgu+my28gvuusAOPc2aMPcpZQczUVDlZUTnl7P5ex5MnaUYKZBQFWV8CDkS" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+
+		<input type="text" name="keywords" id="keywords" value="" size="14" maxlength="100" style="padding: 2px; font-size: 11px; color: #666666;"/>
+
+		<input type="submit" value="search" class="submit" style="display:none;" />
+
+		</form></li>
+			</ul>
+    	</div><!-- buttons -->
+    </div><!-- header -->
+    <div id="main">
+        <div id="left">
+                <ul id="menu">
+                    <li class="home"><a href="index.html" class="first">Home</a></li>
+
+                    <li class="about"><a href="about">About</a></li>
+
+                    <li class="collaboration"><a href="collaboration">Collaboration</a></li>
+
+                    <li class="projects"><a href="projects">Projects</a></li>
+
+                    <li class="communities"><a href="communities">Communities</a></li>
+
+                    <li class="media"><a href="media">Media &amp; Events</a></li>
+
+                    <li class="education"><a href="education">Education</a></li>
+
+                    <li class="contact"><a href="contact">Contact</a></li>
+                </ul>
+        </div><!-- left -->
+
+        <div id="right">
+
+
+
+<div class="callout">
+	<h2>CHC News</h2>
+	 
+		<p><strong>April 2011</strong><br/>  Comprehensive Land Use Plan  </p>
+	 
+		<p><strong>2011</strong><br/>  Serenbe Recognized for Commitment to Nature</p>
+	 
+		<p><strong>July 2011</strong><br/>  Chattahoochee Hills balances population of City Council Districts</p>
+	
+	<p class="more"><a href="news">read more &raquo;</a></p>
+</div><!-- callout -->
+
+
+
+
+
+
+<h1>Gallery</h1>
+
+
+<p>The Chattahoochee Hill country&#8217;s rural landscape is beautifully depicted in the photos below.&nbsp; Watch for additional images spanning all seasons coming soon. </p>
+
+<p><i>Photos courtesy of Serenbe photographer Greg Newington, Tucker Berta and Alan Merrill.</i></p>
+
+
+
+
+<!--loads ssp gallery-->
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '380',
+			'height', '380',
+			'src', '/chattgallery',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'chattgallery',
+			'bgcolor', '#ffffff',
+			'name', 'chattgallery',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', '/chattgallery',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="380" height="380" id="chattgallery" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/chattgallery.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="chattgallery.swf" quality="high" bgcolor="#ffffff" width="380" height="380" name="chattgallery" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+
+
+
+
+
+
+
+
+
+     </div><!-- right -->
+        <div style="clear:both;"></div>
+        <div id="footer">
+        <div id="email">
+<div id="formfields">
+<form action="http://email.southernwebgroup.com/t/r/s/ykhtdd/" method="post">
+
+
+
+<table width="550" border="0"  cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle">Name:
+      <input type="text" name="cm-name" id="name" /></td>
+    <td valign="middle">Email:
+      <input type="text" name="cm-ykhtdd-ykhtdd" id="ykhtdd-ykhtdd" /></td>
+    <td valign="top">
+<input type="image" src="images/btn_subscribe.jpg" value="Subscribe" />
+</td>
+  </tr>
+</table>
+
+</form>
+</div>
+
+</div><!--email-->
+<div style="clear:both;"></div>
+        <p>The Chattahoochee Hill Country Conservancy is a 501(c)(3) nonprofit that raises private funds to leverage foundation and governmental grants supporting sustainable development with environmental protection.</p>
+        
+        <p>Copyright 2011 | <a href="privacy">Site Use &amp; Privacy Statement</a></p>
+        
+        </div><!--footer-->
+        
+    </div><!-- main -->
+
+</div><!-- content -->
+	
+	</body>
+</html>

@@ -1,0 +1,241 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #B5AC97;
+    font: normal 100% "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#content{
+	background:  url(images/contentbg.jpg);
+	background-repeat: repeat-y;
+	margin: 0 auto;
+	width: 1024px;
+	padding: 0 18px;
+	font-size: 0.875em;
+	line-height: 140%;
+}
+
+#content #right a{
+	color: #CC9900;
+}
+
+#content #right a:hover{
+	color: #ffffff;
+	background: #CC9900;
+	text-decoration: none;
+}
+
+#header{
+	width: 1024px;
+	height: 140px;
+	background: #51371B;
+	border-bottom: 20px solid #94a621;
+}
+
+#buttons{
+	float: right;
+	padding-top: 86px;
+}
+
+#buttons ul{
+	margin: 0;
+	padding: 0;
+}
+
+#buttons ul li{
+	float: left;
+	list-style-type: none;
+}
+
+#buttons ul li a{
+	background: url(images/tab-std.jpg) center;
+	display: block;
+	width: 140px;
+	height: 54px;
+	line-height: 70px;
+	text-align: center;
+	text-decoration: none;
+	color: #51371B;
+	text-transform: uppercase;
+}
+
+#buttons .search{
+	background: url(images/tab-search.jpg) center;
+	display: block;
+	width: 175px;
+	height: 54px;
+	text-align: center;
+	text-decoration: none;
+	color: #51371B;
+	text-transform: uppercase;
+}
+
+#buttons .search form{
+	margin-left: 15px;
+}
+
+#buttons ul li.search{
+	padding: 20px 0 0 0;
+	height: 34px;
+}
+
+#buttons ul li a:hover{
+	background: url(images/tab-over.jpg) center;
+	color: #94a621;
+}
+
+#header #logo{
+	height: 140px;
+	padding: 29px 0 0 20px;
+	float: left;
+}
+
+#main{
+	width: 1024px;
+	clear:both;
+}
+
+#main #left{
+	width: 275px;
+	padding: 20px 0 20px 20px;
+	float: left;
+}
+
+#main #left #menu{
+	background: #422C16;
+	margin: 0;
+	padding: 20px 0;
+}
+
+#main #left #menu li{
+	list-style-type: none;
+	margin: 0;
+	padding: 0 20px;
+}
+
+#main #left #menu li a{
+	color: #f1f2ed;
+	text-decoration: none;
+	display: block;
+	height: 2em;
+	line-height: 2em;
+	padding: 5px 15px;
+	border-bottom: 1px solid #97795E;
+}
+
+#main #left #menu li a.first{
+	border-top: 1px solid #97795E;
+}
+
+#main #left #menu li a:hover{
+	background: #51371B;
+}
+
+#main #right{
+	width: 660px;
+	padding: 20px 20px 20px 0;
+	float: right;
+	color: #444444;
+}
+
+#main #right h1{
+    font-family: Georgia, serif;
+    font-size: 2.125em; /* 34 / 16 */
+	line-height: 1em;
+    color: #CC9900;
+    font-weight: normal;
+    border-bottom: 1px solid #CC9900;
+    margin: 0;
+    padding: 1em 0 .5em 0;
+    width: 380px;
+}
+
+#main #right .post{
+    border-bottom: 1px solid #CC9900;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+#main #right .post h1{
+	font-size: 1.5em;
+	border-bottom: none;
+	color: #51371B;
+	padding-bottom: .25em;
+}
+
+#main #right .post .date{
+	margin: 0;
+	padding: 0 0 1em 0;
+	font-size: .685em; /* 11 /16 */
+}
+
+#main #right .narrowcol{
+	float: left;
+	width: 300px;
+}
+
+#main #right .narrowcol h1{
+	width: 300px;
+}
+
+#main #right .callout{ /* for display on secondary pages */
+	border: 1px solid #666666;
+	width: 250px;
+	float: right;
+	margin: 0 0 1.5em 1.5em;
+}
+
+#home #main #right .callout{ /* for display on the home page */
+	width: 330px;
+	margin: 1.5em 0 1.5em 1.5em;
+		
+}
+
+#main #right .callout h2{
+	background: #94A621;
+	font-size: 1.75em; /* 28 / 16 */
+	color: #f1f2ed;
+	margin: 0;
+	padding: .5em;
+}
+
+#main #right .callout p{
+	padding: 1em;
+	margin: 0;
+}
+
+#footer{
+	clear: both;
+	height: 150px;
+	background: #51371B;
+	border-top: 20px solid #94a621;
+	color: #f1f2ed;
+	font-size: .75em; /* 12 / 16 */
+	text-align: center;
+
+}
+
+#footer p{
+	margin: 0 auto;
+	width: 734px;
+}
+
+#footer a{
+	color: #CC9900;
+}
+
+#footer #email{
+	padding: 0;
+	margin: 0 auto;
+	width: 802px;
+	height: 58px;
+	background: url(images/emailbg.jpg);
+}
+
+#footer #email #formfields table{
+	margin: 0 0 0 200px;
+}
+
+#footer #email form{
+	margin: 0;
+}
