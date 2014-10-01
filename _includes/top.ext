@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">	<head>
+    <title>Parks &amp; Recreation &mdash; ChattHillCountry.com</title>
+
+
+<meta name="keywords" content="Atlanta, Chattahoochee, Country, Georgia, Land, Conservancy" />
+
+<meta name="description" content="The Chattahoochee Hill Country (CHC) is a 65,000 acre area southeast of Atlanta." />
+
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+
+<script type="text/javascript">
+  var randomnumber=Math.floor(Math.random()*15);
+</script>
+
+
+
+
+
+
+<style>
+.parks a{background: #51371B;}
+</style>
+  </head>
+  <body id="parks">
+    <div id="content">
+    <div id="header">
+      <div id="logo"><a href="index.html"><img src="images/logo.gif" alt="ChattHillCountry.org" width="519" height="82" border="0"/></a></div><!-- logo -->
+      <div id="buttons">
+      <ul>
+        <li><a href="support.html">Support CHC</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li class="search"		<form method="post" action="index.html"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="19" />
+<input type="hidden" name="XID" value="702123fb296d2d63267490c485bac18ec1c0a559" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="meta" value="gKwJidJ9m2MJpICsvioSygscWtTUZCYYjiwcDem138qqHDgXAFG5zagckHSqJW9wY19m1Nc4J3ihOwr2EnkBvnjZSt7NBWO4+ZOT6eT9VZgeCcHFCzmEqLj0HfvfPqjPNSZpzMnd+IRYu8N0dNEvQQQa6aUYUupdxllQmdi41Oy9FsoRtg02KxYL3FDt3FbQp9S1ZSsFCCwwblcKotrUvFHlCa/LDs3TqjJk+RJH8gSYDe0vWdtfftun/X2BiwelD+BoJW9l8I6e/leGAR6gpYsklyd0m9oISq93E29/PctJzuGf2yO6ka0N/k1oW5Vyx83emLgu+my28gvuusAOPc2aMPcpZQczUVDlZUTnl7P5ex5MnaUYKZBQFWV8CDkS" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+
+    <input type="text" name="keywords" id="keywords" value="" size="14" maxlength="100" style="padding: 2px; font-size: 11px; color: #666666;"/>
+
+    <input type="submit" value="search" class="submit" style="display:none;" />
+
+    </form></li>
+      </ul>
+      </div><!-- buttons -->
+    </div><!-- header -->
+    <div id="main">
+        <div id="left">
+          {% include left.html %}
+        </div><!-- left -->
+
+        <div id="right">
+
+
+
+<div class="callout">
+  {% include callout.html %}
+</div><!-- callout -->
+
+
+
+
+
+<!--random photo above page title-->
+      <script type="text/javascript">
+        document.write("<img src="http://www.chatthillcountry.org/\&quot;/images/headers/&quot;" + randomnumber + ".jpg\"  >");
+      </script>
